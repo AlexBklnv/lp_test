@@ -1,0 +1,15 @@
+@import 'dialog';
+
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+.container {
+  font-family: 'TT Norms', 'Helvetica', sans-serif;
+  display: flex;
+  width: 1000px;
+  height: 100vh;
+  justify-content: center;
+}
